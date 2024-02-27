@@ -12,7 +12,8 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background: url("hasena.jpg");
+	object-fit:contain;
 	
 }
 .peach-after {
